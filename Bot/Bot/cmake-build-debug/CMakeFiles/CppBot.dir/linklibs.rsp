@@ -1,0 +1,1 @@
+  -LD:/Programming/CommonProjects/RCT-Brutool/Bot/Bot/libs/curl-7.79.1-win64-mingw/lib  -lcurl -lstdc++fs -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

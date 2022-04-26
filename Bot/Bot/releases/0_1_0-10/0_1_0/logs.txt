@@ -1,0 +1,246 @@
+INFO: 2022-2-10 14:1
+INFO: APPLICATION LAUNCHED
+INFO: CONFIG LOADED
+INFO: REQUESTS INITIALIZED
+INFO: APPLICATION INITIALIZED
+INFO: HOST: http://localhost:2288
+INFO: PREPARING TO POST REQUEST ( http://localhost:2288/api/bots/login )
+INFO: STARTING POST REQUEST ( http://localhost:2288/api/bots/login )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SUCCESSFULLY LOGGED IN
+INFO: PREPARING TO POST REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING POST REQUEST ( http://localhost:2288/api/messages?is_reply=0&receivers_ids=1&receivers_type=user&reply_on=0&sender_id=1&sender_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: MAINLOOP RAN
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: MESSAGE PUSHED TO LIST ( 2 )
+INFO: COMMAND GOT ( 103 )
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/updates/update/0.0.13 )
+INFO: STARTING DOWNLOADING FROM ( http://localhost:2288/api/updates/update/0.0.13 )
+ERROR: CURL ERROR 23
+INFO: 2022-2-10 14:2
+INFO: APPLICATION LAUNCHED
+INFO: CONFIG LOADED
+INFO: REQUESTS INITIALIZED
+INFO: APPLICATION INITIALIZED
+INFO: HOST: http://localhost:2288
+INFO: PREPARING TO POST REQUEST ( http://localhost:2288/api/bots/login )
+INFO: STARTING POST REQUEST ( http://localhost:2288/api/bots/login )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SUCCESSFULLY LOGGED IN
+INFO: PREPARING TO POST REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING POST REQUEST ( http://localhost:2288/api/messages?is_reply=0&receivers_ids=1&receivers_type=user&reply_on=0&sender_id=1&sender_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: MAINLOOP RAN
+INFO: 2022-2-10 14:2
+INFO: APPLICATION LAUNCHED
+INFO: CONFIG LOADED
+INFO: REQUESTS INITIALIZED
+INFO: APPLICATION INITIALIZED
+INFO: HOST: http://localhost:2288
+INFO: PREPARING TO POST REQUEST ( http://localhost:2288/api/bots/login )
+INFO: STARTING POST REQUEST ( http://localhost:2288/api/bots/login )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SUCCESSFULLY LOGGED IN
+INFO: PREPARING TO POST REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING POST REQUEST ( http://localhost:2288/api/messages?is_reply=0&receivers_ids=1&receivers_type=user&reply_on=0&sender_id=1&sender_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: MAINLOOP RAN
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: MESSAGE PUSHED TO LIST ( 1 )
+INFO: COMMAND GOT ( 103 )
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/updates/update/0.0.13 )
+INFO: STARTING DOWNLOADING FROM ( http://localhost:2288/api/updates/update/0.0.13 )
+ERROR: CURL ERROR 23
+INFO: 2022-2-10 14:6
+INFO: APPLICATION LAUNCHED
+INFO: CONFIG LOADED
+INFO: REQUESTS INITIALIZED
+INFO: APPLICATION INITIALIZED
+INFO: HOST: http://localhost:2288
+INFO: PREPARING TO POST REQUEST ( http://localhost:2288/api/bots/login )
+INFO: STARTING POST REQUEST ( http://localhost:2288/api/bots/login )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SUCCESSFULLY LOGGED IN
+INFO: PREPARING TO POST REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING POST REQUEST ( http://localhost:2288/api/messages?is_reply=0&receivers_ids=1&receivers_type=user&reply_on=0&sender_id=1&sender_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: MAINLOOP RAN
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: MESSAGE PUSHED TO LIST ( 1 )
+INFO: COMMAND GOT ( 103 )
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/updates/update/0.0.13 )
+INFO: STARTING DOWNLOADING FROM ( http://localhost:2288/api/updates/update/0.0.13 )
+ERROR: CURL ERROR 23
+INFO: 2022-2-10 14:8
+INFO: APPLICATION LAUNCHED
+INFO: CONFIG LOADED
+INFO: REQUESTS INITIALIZED
+INFO: APPLICATION INITIALIZED
+INFO: HOST: http://localhost:2288
+INFO: PREPARING TO POST REQUEST ( http://localhost:2288/api/bots/login )
+INFO: STARTING POST REQUEST ( http://localhost:2288/api/bots/login )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SUCCESSFULLY LOGGED IN
+INFO: PREPARING TO POST REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING POST REQUEST ( http://localhost:2288/api/messages?is_reply=0&receivers_ids=1&receivers_type=user&reply_on=0&sender_id=1&sender_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: MAINLOOP RAN
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: MESSAGE PUSHED TO LIST ( 1 )
+INFO: COMMAND GOT ( 103 )
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/updates/update/0.0.13 )
+INFO: STARTING DOWNLOADING FROM ( http://localhost:2288/api/updates/update/0.0.13 )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: FILE DOWNLOADED, SAVED IN updates/update/0.0.13
+INFO: PREPARING TO POST REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING POST REQUEST ( http://localhost:2288/api/messages?is_reply=1&receivers_ids=1&receivers_type=user&reply_on=1&sender_id=1&sender_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: EXTRACTING <updates/update/0.0.13> to EXDIR with command <7z x updates/update/0.0.13 -oEXDIR -y > nul>
+INFO: START UPDATING
+INFO: 2022-2-10 14:8
+INFO: APPLICATION LAUNCHED
+INFO: CONFIG LOADED
+INFO: REQUESTS INITIALIZED
+INFO: APPLICATION INITIALIZED
+INFO: HOST: http://localhost:2288
+INFO: PREPARING TO POST REQUEST ( http://localhost:2288/api/bots/login )
+INFO: STARTING POST REQUEST ( http://localhost:2288/api/bots/login )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SUCCESSFULLY LOGGED IN
+INFO: PREPARING TO POST REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING POST REQUEST ( http://localhost:2288/api/messages?is_reply=0&receivers_ids=1&receivers_type=user&reply_on=0&sender_id=1&sender_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: MAINLOOP RAN
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: MESSAGE PUSHED TO LIST ( 1 )
+INFO: COMMAND GOT ( 103 )
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/updates/update/0.0.13 )
+INFO: STARTING DOWNLOADING FROM ( http://localhost:2288/api/updates/update/0.0.13 )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: FILE DOWNLOADED, SAVED IN updates/update/0.0.13
+INFO: PREPARING TO POST REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING POST REQUEST ( http://localhost:2288/api/messages?is_reply=1&receivers_ids=1&receivers_type=user&reply_on=1&sender_id=1&sender_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: EXTRACTING <updates/update/0.0.13> to EXDIR with command <7z x updates/update/0.0.13 -oEXDIR -y > nul>
+INFO: START UPDATING
+INFO: 2022-2-10 14:8
+INFO: APPLICATION LAUNCHED
+INFO: CONFIG LOADED
+INFO: REQUESTS INITIALIZED
+INFO: APPLICATION INITIALIZED
+INFO: HOST: http://localhost:2288
+INFO: PREPARING TO POST REQUEST ( http://localhost:2288/api/bots/login )
+INFO: STARTING POST REQUEST ( http://localhost:2288/api/bots/login )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SUCCESSFULLY LOGGED IN
+INFO: PREPARING TO POST REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING POST REQUEST ( http://localhost:2288/api/messages?is_reply=0&receivers_ids=1&receivers_type=user&reply_on=0&sender_id=1&sender_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: MAINLOOP RAN
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: SENDING REQUEST FOR GETTING MESSAGES
+INFO: PREPARING TO GET REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING GET REQUEST ( http://localhost:2288/api/messages?receiver_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: MESSAGE PUSHED TO LIST ( 1 )
+INFO: COMMAND GOT ( 101 )
+INFO: STOPPING
+INFO: PREPARING TO POST REQUEST ( http://localhost:2288/api/messages )
+INFO: STARTING POST REQUEST ( http://localhost:2288/api/messages?is_reply=1&receivers_ids=1&receivers_type=user&reply_on=1&sender_id=1&sender_type=bot )
+INFO: REQUEST WAS SUCCESSFUL ( STATUS CODE: 200 )
+INFO: APP SUCCESSFULLY TERMINATED

@@ -1,0 +1,3 @@
+"D:\Programs\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\UIM.dir/objects.a
+D:\Programming\C++\Compilers\mingw64\bin\ar.exe cr CMakeFiles\UIM.dir/objects.a @CMakeFiles\UIM.dir\objects1.rsp
+D:\Programming\C++\Compilers\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\UIM.dir/objects.a -Wl,--no-whole-archive -o UIM.exe -Wl,--out-implib,libUIM.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\UIM.dir\linklibs.rsp

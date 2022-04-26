@@ -1,0 +1,3 @@
+"D:\Programs\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Bot.dir/objects.a
+D:\Programming\C++\Compilers\mingw64\bin\ar.exe cr CMakeFiles\Bot.dir/objects.a @CMakeFiles\Bot.dir\objects1.rsp
+D:\Programming\C++\Compilers\mingw64\bin\g++.exe -g -static-libstdc++ -static-libgcc  -mwindows -Wl,--whole-archive CMakeFiles\Bot.dir/objects.a -Wl,--no-whole-archive -o Bot.exe -Wl,--out-implib,libBot.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Bot.dir\linklibs.rsp

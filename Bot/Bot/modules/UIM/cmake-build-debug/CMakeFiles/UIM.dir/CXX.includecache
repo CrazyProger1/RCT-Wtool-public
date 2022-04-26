@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Programming/CommonProjects/RCT-Brutool/Bot/Bot/modules/UIM/main.cpp
+iostream
+-
+windows.h
+-
+string
+-
+cstdio
+-
+memory
+-
+stdexcept
+-
+array
+-
+direct.h
+-
+shlobj.h
+-
+fstream
+-
+winuser.h
+-
+

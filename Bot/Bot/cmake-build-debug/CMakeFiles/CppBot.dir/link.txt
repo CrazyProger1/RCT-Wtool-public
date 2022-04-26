@@ -1,0 +1,3 @@
+"D:\Programs\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\CppBot.dir/objects.a
+D:\Programming\C++\Compilers\mingw64\bin\ar.exe cr CMakeFiles\CppBot.dir/objects.a @CMakeFiles\CppBot.dir\objects1.rsp
+D:\Programming\C++\Compilers\mingw64\bin\g++.exe -g -static -static-libgcc -Wl,--whole-archive CMakeFiles\CppBot.dir/objects.a -Wl,--no-whole-archive -o CppBot.exe -Wl,--out-implib,libCppBot.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CppBot.dir\linklibs.rsp
